@@ -5,6 +5,6 @@
 <div>
  <a href="https://github.com/sayranfs">
   <img src="https://github-readme-stats.vercel.app/api?username=sayranfs&show_icons=true&theme=midnight-purple&count_private=true&show_owner=true&hide_title=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayranfs&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayranfs&theme=midnight-purple">
  </a>
 </div>
