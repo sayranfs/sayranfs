@@ -1,9 +1,47 @@
-### Olá! Eu sou Sayran Felix 👋
-Tenho 16 anos e sou desenvolvedor com experiência em diversas tecnologias, incluindo **Node.js**, **React**, **Django**, **CSS**, **HTML**, **JavaScript**, **TypeScript**, **Python**, **Git**, **GitHub**, **Firebase** e **MongoDB**. Apaixonado por programação e sempre buscando novos desafios para expandir minhas habilidades, estou constantemente explorando novas ferramentas e frameworks para criar soluções eficientes e inovadoras.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=120&section=header"/>
   
-Aqui no GitHub, compartilho alguns dos meus projetos e colaborações em que tenho trabalhado. Sinta-se à vontade para explorar meu repositório e entrar em contato para discutir ideias ou oportunidades de colaboração!
-  <img src="![imagem_2024-09-21_122551385](https://github.com/user-attachments/assets/73960e0c-1444-4bce-9017-5dd1d93c2944)">
- <a href="https://github.com/sayranfs">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayranfs&show_icons=true&theme=midnight-purple&count_private=true&show_owner=true&hide_title=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayranfs&theme=midnight-purple">
- </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a8ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sayran+Felix;I'm+16+years+old;I+am+from+Sergipe,+Brazil;I+study+Computer+Networks+at+IFS+-+Lagarto;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sayranfs&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117" alt="Sayran Felix github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayranfs&layout=compact&hide_border=true&title_color=4169e1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayranfs&bg_color=000000&color=4169e1&line=00a8ff&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayranfs&theme=algolia&row=2&no-bg=true&column=3&margin-w=12&margin-h=12" />
+</p>
+
+<div align="center">  
+<a href="https://www.instagram.com/sayranfelix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Main skills:
+![Node.JS](https://img.shields.io/badge/Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=djgango&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sayranfs}/count.svg" /></p> 
+<br></div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=120&section=footer"/>
+
