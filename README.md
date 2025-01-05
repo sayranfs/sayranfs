@@ -20,7 +20,7 @@
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=vscode&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -33,12 +33,15 @@
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/mongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-0D1117.svg?style=for-the-badge&logo=netlify&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-0D1117.svg?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00a8ff&height=120&section=footer"/>
 
