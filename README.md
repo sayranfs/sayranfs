@@ -40,7 +40,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-0D1117.svg?style=for-the-badge&logo=netlify&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-0D1117.svg?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Fusion](https://img.shields.io/badge/fusion-0D1117.svg?style=for-the-badge&logo=fusion&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Audacity](https://img.shields.io/badge/audacity-0D1117.svg?style=for-the-badge&logo=audacity&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![WordPress](https://img.shields.io/badge/wordpress-0D1117.svg?style=for-the-badge&logo=wordpress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Elementor](https://img.shields.io/badge/elementor-0D1117.svg?style=for-the-badge&logo=elementor&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Yoast](https://img.shields.io/badge/yoast-0D1117.svg?style=for-the-badge&logo=yoast&labelColor=0D1117&textColor=0D1117)&nbsp;
